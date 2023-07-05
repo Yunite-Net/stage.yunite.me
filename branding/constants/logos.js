@@ -5,7 +5,7 @@ export default {
   LOGO_HEADER_WIDTH: '47px',
   LOGO_HEADER_CLICK: {
     externalLink: {
-      url: 'https://yunite.org',
+      url: 'https://stage.yunite.me',
       target: '',
     },
     internalPath: null,
